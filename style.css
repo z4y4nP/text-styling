@@ -1,0 +1,10 @@
+h1{
+    font-family: 'Times New Roman', Times, serif;
+    text-decoration: underline;
+    font-weight: bolder;
+}
+p{
+    text-indent: 100px;
+    text-transform: capitalize;
+    color: blue;
+}
